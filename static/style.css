@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    background-color: #aeb0af !important;
+}
+
+.nadpis {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+
+.main {
+    margin:10px;
+    width: 600px;
+}
+
+.cudlik {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.vstupy {
+    margin: 10px;
+}
+
+.vyska, .vaha, .form {
+    margin-bottom: 10px;
+}
+
