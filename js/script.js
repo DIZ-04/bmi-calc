@@ -1,6 +1,6 @@
 document.getElementById("vypocitat").onclick = function () {
 
-    if(isNaN(document.getElementById("vyska").value || document.getElementById("vaha").value == "")){
+    if(isNaN(document.getElementById("vyska").value || document.getElementById("vyska}").value == "")){
         alert("Zadejte prosím správnou hodnotu");
         return;
     }
